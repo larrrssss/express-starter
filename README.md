@@ -33,3 +33,7 @@ npm run lint
 ```
 npm run dev
 ```
+
+## License 
+
+express-starter is licensed under [MIT License](https://github.com/Nacaulius/express-starter/blob/master/LICENSE).
