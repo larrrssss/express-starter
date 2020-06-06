@@ -2,7 +2,7 @@
 
 Includes API Server utilities:
 
-* [morgab](https://www.npmjs.com/package/morgan)
+* [morgan](https://www.npmjs.com/package/morgan)
     * HTTP request logger middleware for node.js
 * [helmet](https://www.npmjs.com/package/helmet)
     * Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
